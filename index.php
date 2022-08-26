@@ -3,7 +3,7 @@
    Plugin Name: Woo Points
    description: Point system extention for woocommerce.
    Version: 1.0
-   Author: Solfon
+   Author: Nikita Y.
    Author URI: https://github.com/solfon/
    License: GPL2
    */
