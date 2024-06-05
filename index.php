@@ -4,7 +4,7 @@
    description: Point system extention for woocommerce.
    Version: 1.0
    Author: Nikita Y.
-   Author URI: https://github.com/solfon/
+   Author URI: https://github.com/nikitathedev/
    License: GPL2
    */
    
